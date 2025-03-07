@@ -1,2 +1,2 @@
 # Ejercicio-1---Pandas
-Ejercicio 2 Udemy 
+Ejercicio, Tabla [Rank, Country, Region, Sub_Region, Population, indice]
